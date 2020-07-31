@@ -1,0 +1,211 @@
+Ngotwane Dam 19.033000000000001 4.6
+Hartbeespoort Dam 186.44 96.5
+Bon Accord Dam 4.381 103
+Olifantsnek Dam 13.677 32.9
+Rietvlei Dam 12.25 -
+Buffelspoort Dam 10.183 71.400000000000006
+Bospoort Dam 15.798999999999999 98.1
+Lindleyspoort Dam 14.208 2.7
+Warmbad Dam 0.549 -
+Roodeplaat Dam 41.158000000000001 98.3
+Kosterrivier Dam 12.417 34.200000000000003
+Klipvoor Dam 40.734999999999999 52.4
+Swartruggens Dam 0.475 0.7
+Vaalkop Dam 51.314999999999998 -
+Roodekopjes Dam 102.33 34.5
+Marico-Bosveld Dam 26.963000000000001 14.3
+Klein Maricopoort Da 7.073 19.399999999999999
+Kromellenboog Dam 8.956 13.7
+Molatedi Dam 200.79 6.8
+Sehujwane Dam 3.614 74.8
+Madikwe Dam 15.938000000000001 24.8
+Pella Dam 2.111 38
+Mokolo Dam 145.37 77.099999999999994
+Doorndraai Dam 43.764000000000003 72.099999999999994
+Glen Alpine Dam 18.888999999999999 10.5
+Nzhelele Dam 51.234000000000002 32.9
+Luphephe Dam 13.984 12.3
+Nwanedzi Dam 5.144 38.200000000000003
+Mutshedzi Dam 2.336 30.1
+Albasini Dam 28.199000000000002 69.2
+Vondo Dam 30.446999999999999 63
+Nandoni Dam 166.11 66.2
+Witbank Dam 104.02 52.2
+Middelburg Dam 48.055999999999997 57
+Bronkhorstspruit Dam 56.994 64.599999999999994
+Rust Der Winter Dam 28.186 57.2
+Loskop Dam 361.51 55.1
+Rhenosterkop Dam 204.58 25.6
+Tonteldoos Dam 0.189 100.3
+Vlugkraal Dam 0.443 66.099999999999994
+Buffelskloof Dam 5.244 29.6
+De Hoop Dam 348.7 92.3
+Flag Boshielo Dam 185.13 40.200000000000003
+Ohrigstad Dam 13.448 7.5
+Blyderivierpoort Dam 54.369 50
+Klaserie Dam 5.604 49
+Tours Dam 6.084 32
+Ebenezer Dam 69.138999999999996 70.400000000000006
+Hans Merensky Dam 1.225 90
+Magoebaskloof Dam 4.84 100
+Vergelegen Dam 0.254 98
+Tzaneen Dam 156.53 29.9
+Dap Naude Dam 1.936 82.8
+Middel-Letaba Dam 171.93 25.4
+Nsami Dam 21.873999999999999 14.4
+Vaal Dam 2603.4499999999998 48.6
+Grootdraai Dam 349.53 64.099999999999994
+Boskop Dam 21.026 70.099999999999994
+Johan Neser Dam 5.672 0
+Klerkskraal Dam 7.922 42.2
+Potchefstroom Dam 2.027 -
+Klipdrift Dam 13.301 66.400000000000006
+Elandskuil Dam 1.181 7.4
+Rietspruit Dam 7.275 0
+Spitskop Dam 57.831000000000003 27.7
+Taung Dam 61.366 82.3
+Allemanskraal Dam 174.52 13.5
+Erfenis Dam 206.06 -
+Tierpoort Dam 33.994999999999997 0
+Kalkfontein Dam 325.13 5.9
+Rustfontein Dam 71.207999999999998 21.1
+Krugersdrift Dam 71.478999999999999 6.8
+Groothoek Dam 11.904999999999999 0
+Koppies Dam 42.311 39
+Sterkfontein Dam 2616.9 88.1
+Saulspoort Dam 15.675000000000001 98.4
+Fika-Patso Dam 29.411000000000001 -
+Vaalharts Storage Weir 50.682000000000002 74.5
+Bloemhof Dam 1240.24 15.5
+Douglas Storage Weir 16.245000000000001 106.3
+Sterkspruit Dam 9.473000000000001 -
+Katse Dam 1519.1 63.8
+Mohale Dam 857.1 26.7
+Egmont Dam 9.058999999999999 22
+Armenia Dam 12.957000000000001 10
+Welbedacht Dam 9.592 97.5
+Knellpoort Dam 130 32.4
+Gariep Dam 5196.04 53.9
+Vanderkloof Dam 3171.3 57
+Disaneng Dam 14.125 34.200000000000003
+Setumo Dam 20.718 41.7
+Boegoeberg Dam 19.815000000000001 93.5
+Bulshoek Dam 4.809 65
+Clanwilliam Dam 122.48 20.6
+Karee Dam 0.949 16.8
+Voelvlei Dam 158.58000000000001 22.2
+Wemmershoek Dam 58.71 52.3
+Misverstand Dam 6.439 88.8
+Berg River Dam 127.05 31.1
+Steenbras Dam Lower 33.880000000000003 48.1
+Eikenhof Dam 28.856000000000002 54.3
+Steenbras Dam - Upper 31.811 60
+Debe Dam 6.331 86.9
+De Bos Dam 5.735 71.3
+Brandvlei Dam 286.04000000000002 24.8
+Stettynskloof Dam 14.747 43.6
+Ceres Dam 17.25 -
+Roode Els Berg Dam 7.727 31.5
+Lakenvallei Dam 10.263999999999999 87.4
+Poortjieskloof Dam 9.720000000000001 80.3
+Pietersfontein Dam 1.984 86.1
+Keerom Dam 9.75 69.599999999999994
+Klipberg Dam 1.978 64.599999999999994
+Kwaggaskloof Dam 169.41 27.3
+Theewaterskloof Dam 479.26 39.4
+Elandskloof Dam 10.993 42.5
+Buffeljags Dam 4.543 97.2
+Duiwenhoks Dam 6.18 -
+Korentepoort Dam 8.092 96.1
+Prinsrivier Dam 2.258 30.5
+Bellair Dam 4.241 78.3
+Floriskraal Dam 48.265999999999998 7.9
+Miertjieskraal Dam 1.517 -
+Calitzdorp Dam 4.817 87.8
+Leeugamka Dam 13.584 16.7
+Oukloof Dam 4.19 53.6
+Gamka Dam 1.82 48.9
+Gamkapoort Dam 36.234000000000002 12
+Kammanassie Dam 34.353999999999999 79.900000000000006
+Stompdrift Dam 49.579000000000001 53.9
+Hartebeestkuil Dam 7.133 68.8
+Klipheuwel Dam 4.45 85
+Ernest Robertson Dam 0.415 93.4
+Wolwedans Dam 24.626000000000001 95.4
+Garden Route Dam 9.978999999999999 90.6
+Roodefontein Dam 1.99 95.6
+Kromrivier Dam 35.24 85.9
+Impofu Dam 105.76 93.6
+Beervlei Dam 85.778999999999996 1.5
+Kouga Dam 125.91 81.400000000000006
+Haarlem Dam 4.603 72.599999999999994
+Loerie Dam 3.026 22.1
+Groendal Dam 11.638 90.1
+Nqweba (V. Rynevelds) 44.718000000000004 42.4
+Darlington Dam 180.83 19.899999999999999
+Grassridge Dam 46.19 50.7
+Kommandodrift Dam 55.87 64.400000000000006
+Elandsdrift Dam 3.546 12.9
+De Mistkraal Dam 2.053 88.8
+Glen Melville 6.229 97.2
+Katrivier Dam 24.681999999999999 94
+Sandile Dam 29.655999999999999 84.9
+Binfield Dam 36.848999999999997 96.6
+Laing Dam 18.904 97.3
+Rooikrantz Dam 4.799 95.9
+Bridle Drift Dam 97.923000000000002 85.2
+Nahoon Dam 19.247 67.900000000000006
+Macubeni Dam 3.373 98.1
+Xonxa Dam 115.86 100
+Lubisi Dam 158 66.5
+Doornrivier Dam 17.099 57.5
+Boesmanskrantz Dam 4.818 86.5
+Waterdown Dam 37.441000000000003 90.1
+Oxkraal Dam 14.829000000000001 48.8
+Ncora Dam 147.28 73
+Tsojana Dam 12.272 99.7
+Gubu Dam 8.504 95.5
+Wriggleswade Dam 91.471000000000004 98.7
+Gcuwa Dam 0.601 97.7
+Xilinxa Dam 13.823 27.2
+Toleni Dam 0.177 -
+Umtata 244.67 100.4
+Mabeleni Dam 2.099 99
+Corana Dam 0.754 29.2
+Belfort Dam 0.413 98
+Ntenetyana Dam 1.512 40.299999999999997
+Nqadu Dam 1.274 49.2
+Mlanga Dam 1.597 11.3
+Midmar Dam 235.42 45.8
+Nagle Dam 23.236000000000001 74.400000000000006
+Albert Falls Dam 288.14 36.4
+Inanda Dam 237.4 78.400000000000006
+Hazelmere Dam 17.675999999999998 33.200000000000003
+Spioenkop Dam 270.64 63.5
+Driel Barrage 8.694000000000001 95.4
+Woodstock Dam 373.25 77.099999999999994
+Craigie Burn Dam 22.466000000000001 65.3
+Mearns Dam 5.163 62.7
+Spring Grove Dam 139.19999999999999 84.8
+Ntshingwayo Dam 194.56 55.5
+Zaaihoek Dam 184.63 58.5
+Wagendrift Dam 55.9 100.4
+Goedertrouw Dam 301.26 24.2
+Klipfontein Dam 18.085999999999999 18.899999999999999
+Hluhluwe Dam 25.893000000000001 17.7
+Pongolapoort Dam 2267.0700000000002 46.2
+Jericho Dam 59.273000000000003 75.3
+Westoe Dam 60.094999999999999 48.3
+Morgenstond Dam 99.988 52.6
+Heyshope Dam 444.94 87.9
+Nooitgedacht Dam 78.343000000000004 64.5
+Vygeboom Dam 78.02 65.7
+Driekoppies Dam 250.92 43.7
+Maguga Dam 333.75 29.6
+Longmere Dam 4.202 60.4
+Klipkopjes Dam 11.776999999999999 45.7
+Witklip Dam 12.519 39.299999999999997
+Primkop Dam 1.899 14.6
+Kwena Dam 158.88999999999999 48.2
+Da Gama Dam 13.526 57.9
+Inyaka Dam 123.66 63.5
